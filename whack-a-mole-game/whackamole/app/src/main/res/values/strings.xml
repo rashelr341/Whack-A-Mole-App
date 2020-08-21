@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">whackamole</string>
+    <string name="whack_a_mole">Whack A Mole!</string>
+    <string name="Timer">Timer:</string>
+    <string name="Score">Score:</string>
+    <string name="Your_Score">Your Score:</string>
+    <string name="level_1">Level 1</string>
+    <string name="level_2">Level 2</string>
+    <string name="level_3">Level 3</string>
+
+</resources>
